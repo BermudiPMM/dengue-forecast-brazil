@@ -5,7 +5,7 @@ Preprint available at: https://doi.org/10.1101/2024.07.22.24310334
 
 This repository contains a script ("models_scripts.R") outlining the commands and steps required for model construction, forecasting future outcomes, and conducting cross-validation metrics.
 
-The 'data.csv' file and its accompanying dictionary, 'data_dictionary.csv,' are available on Figshare.
+The 'data.csv' file and its accompanying dictionary, 'data_dictionary.csv,' are available on Figshare: Bermudi, Patricia (2024). Database dengue-forecast-Brazil. figshare. Dataset. https://doi.org/10.6084/m9.figshare.26357017.v3
 
 
 
