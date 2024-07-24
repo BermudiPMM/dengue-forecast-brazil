@@ -7,5 +7,6 @@ This repository contains a script ("models_scripts.R") outlining the commands an
 
 The 'data.csv' file and its accompanying dictionary, 'data_dictionary.csv,' are available on Figshare: Bermudi, Patricia (2024). Database dengue-forecast-Brazil. figshare. Dataset. https://doi.org/10.6084/m9.figshare.26357017.v3
 
+Please feel free to contact Patricia Marques Moralejo Bermudi -- patricia.bermudi@usp.br if you need any further information.
 
 
